@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails spreadsheet_demo: development" uuid="727861c3-5c2e-45e0-8cba-be6b391c5237">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails spreadsheet_demo: test" uuid="1cc71296-27a9-403f-85cc-7f96de75e0a8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails spreadsheet_demo: production" uuid="56bf362e-f088-4df9-bbf7-5bc46146799a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
