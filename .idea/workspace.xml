@@ -50,10 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo_xsl.rake" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="demo_xsl.rake" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/tasks/demo_xsl.rake">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="3" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.5681818" vertical-offset="0" max-vertical-offset="924">
+            <state line="35" column="3" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="697" selection-end="697" vertical-scroll-proportion="0.5681818" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/tasks/demo_xsl.rake" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -514,7 +524,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/tasks/demo_xsl.rake">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="3" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.5681818" vertical-offset="0" max-vertical-offset="924">
+        <state line="35" column="3" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="697" selection-end="697" vertical-scroll-proportion="0.5681818" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
